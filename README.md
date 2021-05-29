@@ -13,15 +13,15 @@ Hi there, thanks for stopping by, this is **BeteLicence50**.
 ─────────────────────────────────────
 </p>
 
-![BeteLicence50 github stats](https://github-readme-stats.vercel.app/api?username=BeteLicence50&hide=contribs,prs&count_private=true&show_icons=true)
+![BeteLicence50 github stats](https://github-readme-stats.vercel.app/api?username=Devante&hide=contribs,prs&count_private=true&show_icons=true)
 
 <a href="https://github.com/BeteLicence50">
   <img src="https://img.shields.io/github/followers/BeteLicence50">
 </a>
 <a href="https://github.com/BeteLicence50">
-   <img src="https://komarev.com/ghpvc/?username=BeteLicence50">
+   <img src="https://komarev.com/ghpvc/?username=Devante">
 </a>
-<a href="https://discord.bio/p/betelicence">
+<a href="https://discord.bio/p/deventee">
          <img src="https://img.shields.io/static/v1?label=Website&logo=CSS3&logoColor=1572B6&message=Click%20Here&color=1572B6">
          </a>
 
@@ -35,4 +35,4 @@ Hi there, thanks for stopping by, this is **BeteLicence50**.
 
 ---
 
-🔎 From [@!"H-Nooby](https://github.com/BetLicence50)
+🔎 From [@Devente](https://github.com/BetLicence50)
