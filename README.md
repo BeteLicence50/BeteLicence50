@@ -15,7 +15,7 @@ Hi there, thanks for stopping by, this is **BeteLicence50**.
 ─────────────────────────────────────
 </p>
 
-![BeteLicence50 github stats](https://github-readme-stats.vercel.app/api?username=4po&hide=contribs,prs&count_private=true&show_icons=true)
+![BeteLicence50 github stats](https://github-readme-stats.vercel.app/api?username=BeteLicence50&hide=contribs,prs&count_private=true&show_icons=true)
 
 <a href="https://github.com/BeteLicence50">
   <img src="https://img.shields.io/github/followers/BeteLicence50">
